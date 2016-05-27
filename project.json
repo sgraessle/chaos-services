@@ -1,0 +1,9 @@
+
+{
+  "name": "chaos",
+  "description": "A simple account service in go/lambda.",
+  "memory": 128,
+  "timeout": 5,
+  "defaultEnvironment": "dev",
+  "environment": {}
+}
